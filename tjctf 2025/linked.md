@@ -17,7 +17,7 @@
 ---
 
 ## Introduction
-I  enjoyed playing in this CTF, however, this challenge was the one that gave me the most trouble.I wrote this small write-up to help anyone that was still struggling and to show how I did it. As a side note, I am using gdb with gef, a gdb enhancer that makes solving challenges easier (at least for me!). Highly reccomend for people doing pwn.
+I  enjoyed playing in this CTF, however, this challenge was the one that gave me the most trouble.I wrote this small write-up to help anyone that was still struggling and to document how I did it. As a side note, I am using gdb with gef, a gdb enhancer that makes solving challenges easier (at least for me!). Highly reccomend for people doing pwn.
 
 ## 🛠️ Solution
 

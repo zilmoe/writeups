@@ -354,5 +354,7 @@ p.sendline(parsed_digits)
 p.interactive()
 ```
 Extra material on GOT tables:
+
 https://www.youtube.com/watch?v=kUk5pw4w0h4
+
 https://www.youtube.com/watch?v=B4-wVdQo040&t=747s

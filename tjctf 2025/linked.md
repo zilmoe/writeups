@@ -168,7 +168,7 @@ The head field of the eventList now points to a linked list node.
     events.size = 1;
 ```
 
-This initialized all the undefined memory that we are using. Linked lists are normally null terminated, which means the last item in the linked list will point to null. This is useful in a few scenarios, namely travering the linked list. 
+This initialized all the uninitialized memory that we are using. Linked lists are normally null terminated, which means the last item in the linked list will point to null. This is useful in a few scenarios, namely traversing the linked list. 
 
 Hopefully this gave you a pretty clear idea of how to think about the lists if you are new to them but if not there are many resources online that are exetremely helpful. 
 

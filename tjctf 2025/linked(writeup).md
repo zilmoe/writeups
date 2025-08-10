@@ -16,9 +16,6 @@
 
 ---
 
-## Introduction
-I  enjoyed playing in this CTF, however, this challenge was the one that gave me the most trouble.I wrote this small write-up to help anyone that was still struggling and to document how I did it. As a side note, I am using gdb with gef, a gdb enhancer that makes solving challenges easier (at least for me!). Highly reccomend for people doing pwn.
-
 ## 🛠️ Solution
 
 The first thing I noticed in this challenge was that they provided a libc file. From this I suspected that there would be some kind of libc leak / GOT overwrite so I checked the protections on the binary by running it in GDB with `gdb ./chall` and then using the command `checksec`.

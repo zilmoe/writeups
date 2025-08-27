@@ -1,4 +1,5 @@
-# Writeups by zilmoe
+# Writeups
+Author: zilmoe
 
 This repository contains all of the CTF writups I have authored. They will contain writeups from pwn, reverse engineering, and sometimes cryptography. They serve two purposes:
 
